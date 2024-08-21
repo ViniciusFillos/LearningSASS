@@ -1,0 +1,16 @@
+.image {
+  width: 70px;
+  height: 100px;
+}
+
+body {
+  background-color: darkcyan;
+}
+
+.header {
+  background-color: darkkhaki;
+}
+.header h1 {
+  color: purple;
+  font-family: cursive;
+}
