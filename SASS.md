@@ -63,5 +63,3 @@ nav a {
   text-decoration: none;
 }
 ```
-
-[BEM ( Block, Element, Modifier )](SASS%20a22ffb5a8b0341679d421b49dfdfd1cd/BEM%20(%20Block,%20Element,%20Modifier%20)%206c62ff4a7b3c4b96a0f240334b7a9078.md)
